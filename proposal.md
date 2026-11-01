@@ -7,12 +7,12 @@ MathQuiz: Program Generator dan Evaluasi Latihan Soal Matematika Berbasis Python
 Matematika membutuhkan latihan secara berulang agar peserta didik dapat memahami konsep dan meningkatkan kemampuan menyelesaikan soal. Pembuatan soal dan pemeriksaan jawaban secara manual membutuhkan waktu. Oleh karena itu, MathQuiz dirancang untuk menghasilkan soal secara acak, memeriksa jawaban, dan menghitung nilai secara otomatis.
 
 ## 3. Pengguna dan Tujuan
-**Pengguna:**
+Pengguna:
 - Siswa SMP/SMA.
 - Guru matematika.
 - Peserta didik yang ingin berlatih mandiri.
 
-**Tujuan:**
+Tujuan:
 1. Membantu latihan matematika secara mandiri.
 2. Menghasilkan soal secara otomatis.
 3. Memeriksa jawaban pengguna.
@@ -20,18 +20,18 @@ Matematika membutuhkan latihan secara berulang agar peserta didik dapat memahami
 5. Memberikan evaluasi hasil latihan.
 
 ## 4. Ruang Lingkup
-**Fitur wajib:**
+Fitur wajib:
 1. Menampilkan menu operasi matematika.
 2. Menghasilkan soal secara acak.
 3. Menerima jawaban pengguna.
 4. Memeriksa jawaban benar atau salah.
 5. Menghitung dan menampilkan nilai akhir.
 
-**Fitur tambahan:**
+Fitur tambahan:
 - Menyimpan riwayat latihan ke file TXT.
 - Menampilkan evaluasi hasil belajar.
 
-**Batasan:**
+Batasan:
 - Menggunakan bahasa Python.
 - Berjalan melalui terminal/console.
 - Materi meliputi penjumlahan, pengurangan, perkalian, dan pembagian.
@@ -70,7 +70,7 @@ Matematika membutuhkan latihan secara berulang agar peserta didik dapat memahami
 
 ## 7. Algoritma dan Pseudocode
 
-**Algoritma:**
+Algoritma:
 1. Mulai program.
 2. Tampilkan menu operasi matematika.
 3. Pengguna memilih operasi.
@@ -85,7 +85,7 @@ Matematika membutuhkan latihan secara berulang agar peserta didik dapat memahami
 12. Simpan hasil latihan.
 13. Selesai.
 
-**Pseudocode:**
+Pseudocode:
 
 ```text
 MULAI
@@ -129,10 +129,10 @@ SELESAI
 | simpan_hasil() | Menyimpan hasil latihan |
 | main() | Mengatur alur program |
 
-**Struktur Folder:**
+Struktur Folder:
 
 ```text
-Proyek_AkhirMathQuiz
+Pertemuan 14_Proyek_Akhir_Gugun Ramdani_2225250061
 │
 ├── README.md
 ├── proposal.md
@@ -208,11 +208,3 @@ hasil_latihan = {
 | Testing dan debugging | Pertemuan 15 | Pengujian program |
 | Dokumentasi | Pertemuan 15 | README dan laporan |
 | Presentasi | Pertemuan 16 | Demonstrasi program |
-
-## 13. Repository GitHub
-
-Nama repository: `MathQuiz-Python`
-
-Deskripsi: Program generator dan evaluasi latihan soal matematika berbasis Python.
-
-URL Repository: [Isi URL GitHub kelompok]
