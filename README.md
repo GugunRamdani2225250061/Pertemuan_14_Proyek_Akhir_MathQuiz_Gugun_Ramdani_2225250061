@@ -1,3 +1,10 @@
+# PERTEMUAN 14 PROYEK AKHIR
+
+- NAMA: GUGUN RAMDANI
+- KELAS: 3A
+- NIM: 2225250061
+- MATA KULIAH: ALGORITMA DAN PEMROGRAMAN
+
 # MathQuiz – Program Latihan Soal Matematika
 
 ## Deskripsi
